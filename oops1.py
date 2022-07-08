@@ -1,3 +1,13 @@
+"""
+Program Name : oops1.py
+Input        : two Integers
+Output       : Integers
+Description  : It is used to display values of variables of object 
+Author       : Sujeet Kumbhar
+Date         : 08-07-2022
+"""
+
+
 class demo:
     value=""
     def __init__(self,num1,num2):
